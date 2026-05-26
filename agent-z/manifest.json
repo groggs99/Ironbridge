@@ -1,0 +1,29 @@
+{
+  "created": "2026-05-26",
+  "branch": "agent-z/corpus-seed-v1",
+  "project": "Agent Z",
+  "repo_at_creation": "groggs99/Ironbridge",
+  "status": "seed corpus branch",
+  "objective": "Create the best possible instance of a Zcash-first grant companion running on IronClaw.",
+  "files_added": [
+    "agent-z/README.md",
+    "agent-z/corpus/zcash/00-source-index/source-index.md",
+    "agent-z/corpus/zcash/01-official-process/zcg-approval-playbook.md",
+    "agent-z/corpus/zcash/01-official-process/zcg-application-template-reconstructed.md",
+    "agent-z/working-notes/agent-z-corpus-next-steps.md"
+  ],
+  "next_files_to_add": [
+    "full ZCG issue template YAML",
+    "bulk exported GitHub grant issues",
+    "full meeting minutes archive",
+    "ZCG dashboard CSV exports",
+    "monthly update examples",
+    "expanded ZIP notes",
+    "grant evaluation fixtures"
+  ],
+  "division_of_responsibility": {
+    "niall": "integrator and final shipping decision-maker",
+    "gpt": "corpus collection, formatting, scraping strategy, markdown structuring, bulk data cleaning, operational review",
+    "claude": "strategic design, skill definitions, mission configs, identity files, prompt architecture, MVP scoping"
+  }
+}
